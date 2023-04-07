@@ -1,0 +1,95 @@
+#profile-spacer{
+    height: 10rem;
+}
+#profile-images-size{
+
+    width: 50%;
+    height: 10rem;
+    object-fit: cover;
+    position: absolute;
+z-index: 1;
+}
+#profile-images2-size{
+    width: 22%;
+    height: 8rem;
+    object-fit: cover;
+border-radius: 50%;
+position: relative;
+z-index: 2 ;
+}
+#profile-spacer2{
+    height: 6rem;
+    position: relative;
+    z-index: 1;
+}
+#profile-abslute{
+    display: flex;
+    justify-content: center;
+}
+#profile-4thcoln{
+    height: 10rem;
+}
+#profile-clrs1{
+    height: 10rem;
+    background: rgb(36,0,13);
+
+}   
+#profile-imgtag{
+    display: inline-block;
+}
+#profile-name{
+    font-size: 2vw;
+}
+#profile-spacer3{
+    height: 6rem;
+}
+#profile-instaimg{
+    height: 2rem;
+margin-bottom: -70%;
+}
+#profile-fbimg{
+    height: 3rem;
+
+
+}
+#profile-alighn{
+    display: flex;
+    justify-content: center;
+}
+#profile-headding-text{
+    font-size: 1.3vw;
+    font-family: 'Playfair Display', serif;
+}
+#profile-flx{
+    display: flex;
+}
+#profile-githudimg{
+    background-color: rgb(106, 106, 106);
+    border-radius: 10px;
+}
+#profile-spacer4{
+    height: 2rem;
+}
+#profile-back{
+    background-image: url(../../public/images/back.jpg);
+}
+#profile-github{
+    height: 2.5rem;
+
+
+}#profile-flx{
+    display: flex;
+}
+#profile-fnt-clr{
+    color: rgb(0, 0, 0);
+    font-size:1.2vw;
+}
+#profile-linkedin{
+    height: 2rem;
+
+}
+#profile-text-contact{
+    font-size: 1.5vw;
+    color: rgb(11, 197, 64);
+    text-align: center;
+}

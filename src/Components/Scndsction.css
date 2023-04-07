@@ -1,0 +1,56 @@
+
+#scnd-spcr1{
+    height: 7rem;
+}
+#scnd-bk2{
+    background-color: black;
+    height: 50rem;
+   
+}
+#scnd-pic1{
+    height:25rem;
+   background-size: cover;
+   object-fit: cover;
+    background-image: linear-gradient(to top, rgba(0, 0, 0, 0.68), rgba(2, 2, 2, 0.394)),url(../../public/images/me.jpeg);
+    border-radius: 20px;
+}
+#scnd-txt{
+    font-size: 30px;
+    color: white;
+    font-family: 'Tilt Neon', cursive;
+}
+#scnd-txt1{
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 800;
+}
+#scnd-txt3{
+    color: rgb(255, 0, 17);
+}
+#scnd-gr{
+    display: flex;
+    color: rgb(255, 0, 17);
+}
+#scnd-btn{
+    background-color: transparent;
+    border: none;
+    color: rgb(255, 0, 17);
+}
+#scnd-skils{
+    height: 10rem;
+}
+#scnd-clr{
+    color: rgb(255, 255, 255);
+    text-align: start;
+    display: flex;
+    justify-content: center;
+    font-family: 'Montserrat', sans-serif;
+
+}
+#tab-links:hover{
+    color: azure;
+}
+body{
+background-color: black;
+color: white;
+}

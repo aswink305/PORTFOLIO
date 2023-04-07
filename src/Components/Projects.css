@@ -1,0 +1,46 @@
+#projects-spacer{
+    height: 2rem;
+}
+#projects-alighn{
+    text-align: center;
+}
+#projects-title{
+    font-size: 50px;
+    font-family: 'Fugaz One', cursive;
+}
+#projects-title1{
+    color: rgb(199, 2, 2);
+}
+#projects-1{
+    font-size: none;
+    font-size: 30px;
+    font-family: 'Racing Sans One', cursive;
+}
+#projects-video{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+#profile-gmail{
+    height: 2vw;
+    top: 90%;
+}
+#profile-fnt{
+    font-size: 1vw;
+    color: black;
+    }
+    @media screen and (max-width: 377px) {
+        #projects-title{
+            font-size: 30px;
+            font-family: 'Fugaz One', cursive;
+        }
+        #projects-1{
+            font-size: none;
+            font-size: 20px;
+            font-family: 'Racing Sans One', cursive;
+        }
+        #Project_contants{
+            font-size: 12px;
+
+        }
+    }

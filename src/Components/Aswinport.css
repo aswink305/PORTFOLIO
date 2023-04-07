@@ -1,0 +1,86 @@
+#as-ttl{
+    background-color: black;
+}
+
+  #Entry_display_flex{
+    display: flex;
+    width: 40%;
+  }
+  #Entry_alighn1{
+    width: 100%;
+    display: flex;
+    justify-content: center ;
+  }
+  @media screen and (max-width: 377px) {
+    #Entry_flx{
+     display: flex;
+    }
+    #Entry_display_flex{
+     width: 100%;
+     display: flex;
+        justify-content: center ;
+       }
+   body{
+    width: fit-content;
+   }
+   #entry-name{
+    font-size:  25px;
+   }
+   #entry-jsty1 {
+    width: 100%;
+}   
+#entry_size_1{
+    width: 40%;
+}
+#entry-img{
+    width: 120px;
+    border-radius: 50%;
+    height: 120px;
+  }
+  #entry-p1{
+    font-size: 10px;
+  }
+  #navbr-fnt1{
+    font-size: 25px;
+
+  }.navbar-toggler{
+    display: flex;
+    background-color: rgb(0, 0, 0);
+  }
+  #nav_buttons{
+width: 100%; 
+}
+#entry-bk{
+    height: 40rem;
+}
+#Entry_alighn2{
+    height: 25rem;
+
+}
+#namesss{
+background-color: rgba(240, 248, 255, 0.532);
+}#scnd-spcr1{
+    display: none;
+}
+#scnd-pic1{
+    display: none;
+    
+}#entry-spcr{
+  height: 15rem;
+}#display_none{
+  display: none;
+}#scnd-txt1{
+  font-size: 13px;
+}#scnd-txt{
+  font-size: 5vw;
+}#scnd-clr{
+  font-size: 3.3vw;
+}#projects-1{
+  font-size: 20px;
+}#entry-spcr2{
+  height: 10rem;
+}#entry-jsty2{
+  height: 3rem;
+}
+
+   }
